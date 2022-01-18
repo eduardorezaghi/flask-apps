@@ -1,0 +1,18 @@
+[submodule "flask-webserver"]
+	path = flask-webserver
+	url = https://github.com/eduardorezaghi/flask-webserver
+[submodule "flask-tutorial"]
+	path = flask-tutorial
+	url = https://github.com/eduardorezaghi/flask-tutorial
+[submodule "flask-taskapp"]
+	path = flask-taskapp
+	url = https://github.com/eduardorezaghi/flask-taskapp
+[submodule "flask-helloworld"]
+	path = flask-helloworld
+	url = https://github.com/eduardorezaghi/flask-helloworld
+[submodule "flask-quickstart"]
+	path = flask-quickstart
+	url = https://github.com/eduardorezaghi/flask-quickstart
+[submodule "flask-sqlalchemy"]
+	path = flask-sqlalchemy
+	url = https://github.com/eduardorezaghi/flask-sqlalchemy.git
